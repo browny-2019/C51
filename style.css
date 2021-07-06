@@ -1,0 +1,24 @@
+h1{color:#0000FF;
+    font-weight:bolder;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.header{
+    background-color:#6495ED;
+    display:flex;
+    justify-content:space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly ;
+}
+.footer{
+    display:flex;
+    justify-content:flex-end;
+}
+p,h2 {
+    text-align: center;
+}
+body{background-color:#B0E0E6};
